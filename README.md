@@ -14,11 +14,12 @@ My approach to software development has been influenced by Extreme Programming (
 
 ### 🌍 [CrossTimely](https://crosstimely.com)
 
+- Tech: Ruby on Rails · React · TypeScript · PostgreSQL
+- Repository: https://github.com/masuyama13/scheduling-polls
+
 A web app for comparing times across multiple cities and time zones, built to make scheduling across time zones easier.
 
 I created CrossTimely based on my own experience working and communicating with people across different time zones.
-
-**Tech:** Ruby on Rails · React · TypeScript · PostgreSQL
 
 ## 🛠 Tech Stack
 
