@@ -6,15 +6,15 @@ Before becoming a developer, I worked in an environment where people spent a lot
 
 With experience in SaaS, I care about understanding customer needs, taking ownership beyond implementation, and continuously improving both products and how we build them.
 
-My approach to software development has been influenced by Extreme Programming (XP) and Scrum, especially close collaboration, fast feedback, and automated testing. I'm also exploring how AI can help us build software better and rethink the way we work.
+My approach to software development has been influenced by Extreme Programming (XP) and Scrum (an Agile framework), especially close collaboration, fast feedback, and automated testing.
 
-🔍 I'm currently looking for a **Software Developer role in Canada** where I can take ownership, stay close to customers, and keep growing as a developer.
+Recently, I've mainly been using Claude Code and Codex to write code while reviewing the AI-generated code myself. It sometimes feels like pair programming.
 
 ## 🚀 Featured Project
 
 ### 🌍 [CrossTimely](https://crosstimely.com)
 
-- Tech: Ruby on Rails · React · TypeScript · PostgreSQL
+- Tech: React · TypeScript · Ruby on Rails (API) · PostgreSQL
 - Repository: https://github.com/masuyama13/scheduling-polls
 
 A web app for comparing times across multiple cities and time zones, built to make scheduling across time zones easier.
@@ -27,7 +27,7 @@ I created CrossTimely based on my own experience working and communicating with 
 Ruby · Ruby on Rails · TypeScript · JavaScript · React · Vue.js · HTML · CSS
 
 **Tools & Technologies**  
-MySQL · PostgreSQL · Docker · GitHub Actions · REST APIs · AWS
+MySQL · PostgreSQL · Docker · GitHub Actions · REST APIs · AWS · Claude Code · Codex
 
 ## 🌱 About Me
 
@@ -36,8 +36,3 @@ MySQL · PostgreSQL · Docker · GitHub Actions · REST APIs · AWS
 - 💻 5+ years of experience across software development and customer reliability engineering
 - 🤝 I value ownership, collaboration, fast feedback, and working out loud
 - 🧪 I care about automated testing and continuously improving development practices
-- 🤖 Interested in how AI is changing the way we build software
-
-## 📫 Let's Connect
-
-Feel free to connect with me on LinkedIn or explore my projects here on GitHub.
